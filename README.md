@@ -1,6 +1,6 @@
 - 👋 Hi, I’m vakul
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning web development.
 - 💞️ I’m looking to learn new skills
 - 📫 https://www.linkedin.com/in/vakul-keshav-78530b222/ link to my linkdin profile.
 
